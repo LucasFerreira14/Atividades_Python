@@ -1,7 +1,3 @@
-# INSIRA ABAIXO OS NOMES DOS ALUNOS DO GRUPO (máximo 5 alunos)
-# ALUNO 1: Lucas Ferreira Da Silva (1903769)
-
-
 class Escola:
     def __init__(self, nome):
         self.nome = nome

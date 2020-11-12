@@ -1,8 +1,3 @@
-# INSIRA ABAIXO OS NOMES DOS ALUNOS DO GRUPO (máximo 5 alunos)
-# ALUNO 1: Lucas Ferreira da Silva (1903769)
-# ALUNO 2: Lucas Almeida (1902820)
-
-
 def calcular_salario(dicionario, nome):
     for i in dicionario:
         if nome in dicionario:
